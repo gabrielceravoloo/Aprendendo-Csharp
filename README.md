@@ -2,7 +2,7 @@
   <img src="https://github.com/gabrielceravoloo/Learning-Csharp/assets/173575898/2cee5654-ecc8-46ea-800d-295ca901506b" alt="Capa do Repositório">
 </p>
 
-<h1 align="center">Learning C / C++</h1>
+<h1 align="center">Learning C#</h1>
 
 ![Badge - Status do projeto](http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETE&color=green&style=for-the-badge)
 
