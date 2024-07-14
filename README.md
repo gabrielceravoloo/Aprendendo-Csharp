@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://github.com/gabrielceravoloo/Learning-Csharp/assets/173575898/2cee5654-ecc8-46ea-800d-295ca901506b" alt="Capa do Repositório">
+  <img src="https://github.com/user-attachments/assets/a5a309d3-4e8c-4739-a4b6-c0229190e334" alt="Capa do Repositório">
 </p>
 
-<h1 align="center">Learning C#</h1>
+<h1 align="center">Aprendendo C#</h1>
 
-![Badge - Status do projeto](http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETE&color=green&style=for-the-badge)
+![Badge - Status do projeto](http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=green&style=for-the-badge)
 
-### Description about the repository: 
+### Descrição sobre o repositório: 
 
-This repository is dedicated to my studies and projects developed using the C# programming language
+Este repositório é dedicado aos meus estudos e projetos desenvolvidos com base no aprendizado da linguagem de programação C#
 
 <hr>
