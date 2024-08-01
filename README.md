@@ -4,7 +4,7 @@
 
 <h1 align="center">Aprendendo C#</h1>
 
-![Badge - Status do projeto](http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=green&style=for-the-badge)
+![Status](http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=green&style=for-the-badge)
 
 ### Descrição sobre o repositório: 
 
