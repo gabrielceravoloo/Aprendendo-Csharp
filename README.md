@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/a5a309d3-4e8c-4739-a4b6-c0229190e334" alt="Capa do Repositório">
-</p>
+</div>
 
 <h1 align="center">Aprendendo C#</h1>
 
